@@ -9,7 +9,7 @@
 hosseinm@oregonstate.edu
 
 
-# Summary
+#  Summary
 > **“No water, no life. No blue, no green.** ~ _Sylvia Earle
 
 
@@ -17,7 +17,7 @@ GIS (**_Geospatial Information Systems_**) experts and professional surveyor wit
 His  professional  career includes large-scale surveying projects in the areas of transportation (route  design  and  mapping),  urban  and  built  environment,  precise  leveling, topographical,  energy (oil, gas and electricity)  pipelines,  refinery and power plant,  construction as-built, tank volumetric Calibration, deformation analysis mapping with a firm grasp and deep knowledge about modern technologies in satellite positioning systems (like GPS and GLONASS) and GIS software.
 Able to find quick and effective solutions for geospatial problems by using creativity, skills, and experience.
 
-## Educations
+##  Educations
 
 ### Oregon State University (Oregon, USA) :us:
 ![OSU](img/osu.jpg)
