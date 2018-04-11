@@ -19,7 +19,7 @@ Able to find quick and effective solutions for geospatial problems by using crea
 
 ## Educations
 
-### Oregon State University (Oregon, USA):us:
+### Oregon State University (Oregon, USA) :us:
 ![OSU](img/osu.jpg)
 
 [**Civil Engineering and Water Resources Research Lab**](http://research.engr.oregonstate.edu/hydroinformatics/current-members)
@@ -40,6 +40,7 @@ Summary of the roles:
 
 ### Tehran University (Tehran, Iran)
 ![Tehran](img/tehran1.jpg)
+
  [**Thehran University, Geomatics Department of Engineering**](http://geospatialeng.ut.ac.ir/en/home)
 **_M.Sc., GIS and Geomatics Engineering_** (2008 - 2010):mortar_board:
 
