@@ -9,7 +9,7 @@
 hosseinm@oregonstate.edu
 
 
-#  Summary
+# Summary
 > **“No water, no life. No blue, no green.** ~ _Sylvia Earle
 
 
@@ -17,9 +17,9 @@ GIS (**_Geospatial Information Systems_**) experts and professional surveyor wit
 His  professional  career includes large-scale surveying projects in the areas of transportation (route  design  and  mapping),  urban  and  built  environment,  precise  leveling, topographical,  energy (oil, gas and electricity)  pipelines,  refinery and power plant,  construction as-built, tank volumetric Calibration, deformation analysis mapping with a firm grasp and deep knowledge about modern technologies in satellite positioning systems (like GPS and GLONASS) and GIS software.
 Able to find quick and effective solutions for geospatial problems by using creativity, skills, and experience.
 
-##  Educations
+## Educations
 
-### Oregon State University (Oregon, USA) :us:
+### Oregon State University (Oregon, USA):us:
 ![OSU](img/osu.jpg)
 
 [**Civil Engineering and Water Resources Research Lab**](http://research.engr.oregonstate.edu/hydroinformatics/current-members)
@@ -40,7 +40,6 @@ Summary of the roles:
 
 ### Tehran University (Tehran, Iran)
 ![Tehran](img/tehran1.jpg)
-
  [**Thehran University, Geomatics Department of Engineering**](http://geospatialeng.ut.ac.ir/en/home)
 **_M.Sc., GIS and Geomatics Engineering_** (2008 - 2010):mortar_board:
 
@@ -52,10 +51,14 @@ Summary of the roles:
 **_Bachelor Degree, Geomatics Engineering_** (2004 - 2008):mortar_board:
 
 ### Skills
-        Softwares  | programing skills
-      ------------ | -------------
-        Arc GIS    |  JavaScripts
-        Civil3D    |  Python
+
+
+
+ |Softwares      | programing skills  |
+ |--------       | --------           |
+ |Arc GIS        | JavaScripts        |
+ |Civil3D        | Python             |
+
 
 # Professional Industry Experiences:
 
